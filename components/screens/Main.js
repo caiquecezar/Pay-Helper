@@ -156,9 +156,9 @@ export default function ({navigation}) {
                         <TouchableHighlight underlayColor='#888' style={{margin: 5}} onPress={() => {
                             (idiom == "English")
                             ?
-                            Alert.alert('ABOUT', 'Thanks to Caique Cézar (1993-?), VALUES EXCHANGEs creator!')
+                            Alert.alert('ABOUT', 'Thanks to Caique Cézar (1993-?), PAY HELPERs creator!')
                             :
-                            Alert.alert('SOBRE', 'Agradeça a Caique Cézar (1993-?), criador do VALUES EXCHANGE!')
+                            Alert.alert('SOBRE', 'Agradeça a Caique Cézar (1993-?), criador do PAY HELPER')
                             }}
                         >
                             <View style={{alignItems:'center', width: 200, borderWidth: 2, borderColor: 'white', borderRadius: 10, backgroundColor: '#555'}}>
